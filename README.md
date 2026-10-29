@@ -55,8 +55,8 @@ A production-ready system that provides a unified interface to multiple Large La
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd tapistro
+   git clone https://github.com/cstudeo/llm-gateway-multi
+   cd llm-gateway-multi
    ```
 
 2. **Install Python dependencies**
